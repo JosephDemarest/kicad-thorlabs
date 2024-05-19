@@ -6,8 +6,8 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U3"
-			(at 3.81 2.54 0)
+		(property "Reference" "U1"
+			(at 3.81 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15,15 +15,15 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 0 0)
+			(at 3.81 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Library:MLD203P1"
-			(at 0 0 0)
+		(property "Footprint" "thorlabs-footprints:MLD203P1"
+			(at 3.81 1.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
