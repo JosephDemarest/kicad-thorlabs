@@ -1078,7 +1078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "thorlabs-footprints:MTD415T"
+		(property "Footprint" "Thorlabs_Temperature_Controller_IC:MTD415T"
 			(at 0.254 9.144 0)
 			(effects
 				(font
